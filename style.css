@@ -1,0 +1,40 @@
+<!DOCTYPE CSS>
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+body {
+  text-align: center;
+  font-size: 20px;
+  margin: 50px 0;
+}
+
+img {
+  width: 300px;
+  margin: 30px;
+  vertical-align: middle;
+  border-radius: 100px;
+}
+div {
+  background-image: url("jellyfishes.jpg");
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding:10px;
+}
+h1{
+  font-family:'Baloo';
+  font-size: 60px;
+  background-color: white;
+}
+span{
+  font-size: 30px;
+}
+p {
+  width: 500px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  vertical-align: middle;
+  padding: 30px;
+}
+  
+  
+
